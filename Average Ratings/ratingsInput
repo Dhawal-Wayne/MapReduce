@@ -1,0 +1,3 @@
+Record type ==> cityName,customerID,ratings(range generally 1-100)
+Example record
+Alaska,c45,60
