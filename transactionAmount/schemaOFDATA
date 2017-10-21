@@ -1,0 +1,9 @@
+aadhar.data
+adhar_num,firstname,lastname,dob
+
+
+pan.data
+pan_id,firstname,dob,aadhar_num
+
+transaction(Can be either via aadhar num or pan)
+transaction_id(pan_id or aadhar_num),amount
